@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Nils-1337
-- 👀 I'm a student in data-science and computer reverse engineering
-- 🌱 I’m currently learning how to pwn the nasa :) i joke
-- 💞️ I’m looking to collaborate on diverses blockchain project, because i like defi
-- 📫 How to reach me check my /bin/email ahah
+- 👀 I'm a student in data-science and computer reverse engineering & forensic.
+- 🌱 I’m currently learning how to exploit remote out of bound XXE over path traversal caused by full account takeover over XCSRF.
+- 💞️ I’m looking to collaborate on variant blockchain project, or something in link with astrophysics, because i like defi enthousiastic, i'm philantrope.
+- 📫 How to reach me check my /bin/email ahah, I use only XMPP over OTR as tchat. I can often use IRC too, because I am 40+ years old. 
+- Also, I can code with Ruby, Python 2.7 & Perl because I'm a sys-admin.
+- 
