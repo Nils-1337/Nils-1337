@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nils-1337
+- 👀 I'm a student in data-science and computer reverse engineering
+- 🌱 I’m currently learning how to pwn the nasa :) i joke
+- 💞️ I’m looking to collaborate on diverses blockchain project, because i like defi
+- 📫 How to reach me check my /bin/email ahah
